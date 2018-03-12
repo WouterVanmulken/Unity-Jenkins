@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7c6e053-be83-4ec0-99e7-f0ed0544b3be" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Unity-Jenkins/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/.idea.Unity-Jenkins/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Assets/TestEditorScript.cs" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Assets/TestEditorScript.cs.meta" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Assets/main.unity" afterPath="$PROJECT_DIR$/Assets/main.unity" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,10 +18,10 @@
       <file leaf-file-name="TestEditorScript.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Editor/TestEditorScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="35" />
+            <state relative-caret-position="544">
+              <caret line="32" column="55" lean-forward="false" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="55" />
               <folding>
-                <marker date="1520608269271" expanded="false" signature="6:66" ph="..." />
+                <marker date="1520608269271" expanded="true" signature="6:66" ph="..." />
                 <marker date="1520608269271" expanded="true" signature="90:1247" ph="{...}" />
                 <marker date="1520608269271" expanded="true" signature="315:487" ph="{...}" />
                 <marker date="1520608269271" expanded="true" signature="542:833" ph="{...}" />
@@ -45,6 +45,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/TestEditorScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Editor/TestEditorScript.cs" />
       </list>
     </option>
   </component>
@@ -54,7 +55,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="959" />
     <option name="width" value="968" />
     <option name="height" value="1047" />
@@ -121,12 +122,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1520608131154</updated>
-      <workItem from="1520608135389" duration="1420000" />
+      <workItem from="1520608135389" duration="2792000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1420000" />
+    <option name="totallyTimeSpent" value="2792000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -138,8 +139,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="959" y="0" width="968" height="1047" extended-state="1" />
-    <editor active="true" />
+    <frame x="959" y="0" width="968" height="1047" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -185,10 +185,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Editor/TestEditorScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="35" lean-forward="false" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="35" />
+        <state relative-caret-position="544">
+          <caret line="32" column="55" lean-forward="false" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="55" />
           <folding>
-            <marker date="1520608269271" expanded="false" signature="6:66" ph="..." />
+            <marker date="1520608269271" expanded="true" signature="6:66" ph="..." />
             <marker date="1520608269271" expanded="true" signature="90:1247" ph="{...}" />
             <marker date="1520608269271" expanded="true" signature="315:487" ph="{...}" />
             <marker date="1520608269271" expanded="true" signature="542:833" ph="{...}" />
